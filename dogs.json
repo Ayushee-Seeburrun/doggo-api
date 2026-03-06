@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Max",
+    "breed": "Golden Retriever",
+    "age": 4,
+    "owner": "James",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Bella",
+    "breed": "Beagle",
+    "age": 2,
+    "owner": "Sara",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "name": "Snoopy",
+    "breed": "Dalmatians",
+    "age": 3,
+    "owner": "Toommy",
+    "gender": "male"
+  }
+]
